@@ -4,3 +4,5 @@
     -Pasar de soporte técnico a un rol de desarrollador full stack.
 3º OBJETIVO: Adquirir metodologías y buenas prácticas de trabajo en equipo
     - Incorporar metodologías ágiles, control de versiones y despliegue en la nube.
+4º OBJETIVO: Desarrollar proyectos propios aplicados a problemas reales
+    -Crear aplicaciones que resuelvan necesidades concretas de tu entorno laboral.
