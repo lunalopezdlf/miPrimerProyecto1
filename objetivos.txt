@@ -2,3 +2,5 @@
     -Aprender desde cero a programar.
 2º OBJETIVO: Reorientar tu carrera hacia el desarrollo profesional
     -Pasar de soporte técnico a un rol de desarrollador full stack.
+3º OBJETIVO: Adquirir metodologías y buenas prácticas de trabajo en equipo
+    - Incorporar metodologías ágiles, control de versiones y despliegue en la nube.
