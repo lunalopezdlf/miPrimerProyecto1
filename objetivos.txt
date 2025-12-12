@@ -1,2 +1,4 @@
 1º OBJETIVO: Dominar el ciclo completo de desarrollo
     -Aprender desde cero a programar.
+2º OBJETIVO: Reorientar tu carrera hacia el desarrollo profesional
+    -Pasar de soporte técnico a un rol de desarrollador full stack.
